@@ -1,0 +1,14 @@
+import java.util.arraylist;
+public class main {
+public static void main (string[]args){
+   //create an arraylist
+arraylist<string> list = new
+array list<>();
+}
+}
+
+
+
+
+
+
