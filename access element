@@ -1,6 +1,19 @@
 
 
+public class main {
+public static void main (string[] args){
+arraylist<sring> list = new arraylist<>();
+    list.add("apple");
+    list.add("banana");
+    list.add("cherry");
 
+// access elements from the arraylist
+        string fruit = list get(1);
+//access the second element (index starts at 0)
+ system.out.println(" element at index 1: " + fruit);
+
+}
+}
 
 
 
