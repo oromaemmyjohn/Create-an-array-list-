@@ -1,4 +1,5 @@
-import java.util.arraylist;
+
+Import java.util.arraylist;
 public class main {
 public static void main (string[]args){
    //create an arraylist
